@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-App-Teleport-Assignment/static/css/main.05b8163f.css",
+    "main.js": "/News-App-Teleport-Assignment/static/js/main.afca15a5.js",
+    "static/js/787.66a4299e.chunk.js": "/News-App-Teleport-Assignment/static/js/787.66a4299e.chunk.js",
+    "index.html": "/News-App-Teleport-Assignment/index.html",
+    "main.05b8163f.css.map": "/News-App-Teleport-Assignment/static/css/main.05b8163f.css.map",
+    "main.afca15a5.js.map": "/News-App-Teleport-Assignment/static/js/main.afca15a5.js.map",
+    "787.66a4299e.chunk.js.map": "/News-App-Teleport-Assignment/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b8163f.css",
+    "static/js/main.afca15a5.js"
+  ]
+}
