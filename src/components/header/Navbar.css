@@ -1,0 +1,56 @@
+.Navbar>img{
+    width: 70px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.inputfield{
+    width: 50%;
+    max-width: 500px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+
+}
+.inputfield>button{
+    border-radius: 10px;
+    width: 90px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Rubik', sans-serif;
+    color: cadetblue;
+    background-color:rgb(86, 82, 82);
+    border: none;
+    height: 40px;
+}
+.inputfield>button:hover{
+    transform: scale(1.01);
+    transition: .8s;
+    box-shadow: #2C2C2C;
+}
+.inputfield>input{
+    width: 100%;
+    
+    line-height: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: #2C2C2C;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding:  0 10px;
+}
+.inputfield>input:focus{
+    outline: none;
+}
+.Navbar{
+    background-color: rgba(28, 26, 26, 0.507);
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 2px 15px;
+    border-radius: 10px;
+    margin: 0 10px;
+    box-shadow: 2px 2px 2px 2px rgba(21, 20, 20, 0.815);
+}

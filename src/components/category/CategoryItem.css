@@ -1,0 +1,19 @@
+.categoryitem{
+    background-color: rgba(0, 0, 0, 0.17);
+    padding: 10px;
+    line-height: 1.2;
+    font-size: 16px;
+    font-family: Rubik;
+    color:white;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration-thickness: 1s;
+
+}
+.categoryitem:hover{
+    transform: scale(1.02);
+    background-color: rgb(52, 39, 38);
+    box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, 0.534);
+}
