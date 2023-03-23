@@ -3,7 +3,7 @@ import News from './components/news/News';
 import Category from './components/category/Category';
 import Navbar from './components/header/Navbar';
 import React,{useState,useEffect} from 'react';
-var apikey = "174c8df1524440179cc5b9338805462f"
+var apikey = "3cc3e2220f4943819f3fd2c62a27e5d3"
 
 function App() {
   var [allnews,setallnews] = useState([]);
